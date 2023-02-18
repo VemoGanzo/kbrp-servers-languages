@@ -1,0 +1,66 @@
+name: Push languages files to private repositories
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  get-languages-list-changes:
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.set-matrix.outputs.matrix }}
+    steps:
+      -
+        name: Checkout current repository
+        uses: actions/checkout@v3
+      -
+        name: Get changed files
+        id: changed-files
+        uses: tj-actions/changed-files@v35
+        with:
+          files: .
+          dir_names: true
+          dir_names_exclude_root:  true
+          json: true
+          files_ignore: ".github/*"
+      - 
+        name: Set matrix value
+        id: set-matrix
+        run: echo "matrix=${{ steps.changed-files.outputs.all_changed_files }}" >> $GITHUB_OUTPUT
+      - 
+        uses: actions/upload-artifact@v3
+        id: upload-artifact
+        with: 
+          name: languages-list
+          path: .
+          if-no-files-found: error
+  push-to-private-repository:
+    needs: [ get-languages-list-changes ]
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        value: ${{fromJson(needs.get-languages-list-changes.outputs.matrix)}}
+    steps:  
+      - 
+        name: Download artifact
+        uses: actions/download-artifact@v3
+        with:
+          name: languages-list
+      - 
+        name: Get the folder name by the repository name
+        run: echo "ROOT_FOLDER_NAME=$(echo "${{ matrix.value }}" | tr '-' '_')" >> $GITHUB_ENV
+      - 
+        name: Push languages folder to the private repository
+        uses: cpina/github-action-push-to-another-repository@v1.5.1
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.PAT }}
+        with:
+          source-directory: ${{matrix.value}}/
+          destination-github-username: ${{ github.REPOSITORY_OWNER }}
+          destination-repository-name: ${{ matrix.value }}
+          target-directory: lua/${{ env.ROOT_FOLDER_NAME }}/languages/
+          target-branch: main
+          user-name: github-actions
+          user-email: github-actions@github.com
+          commit-message: Sync languages file from the private repository

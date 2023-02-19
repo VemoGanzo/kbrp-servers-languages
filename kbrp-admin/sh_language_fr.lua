@@ -7,7 +7,7 @@ DarkRP.RegisterSentences("kbrp_admin", "fr", {
 	["insultTicketReason"] = "Insultes",
 	["trollTicketReason"] = "Troll",
 	["freekillTicketReason"] = "Freekill",
-	["questionTicketReason"] = "Question",
+	["questionTicketReason"] = "Questions",
 	["lowGravity"] = "Basse",
 	["mediumGravity"] = "Moyenne",
 	["highGravity"] = "Haute",

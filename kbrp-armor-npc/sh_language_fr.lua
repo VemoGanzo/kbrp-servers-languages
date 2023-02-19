@@ -4,5 +4,5 @@ DarkRP.RegisterSentences("kbrp_armor_npc", "fr", {
 	["alreadyHaveKevlar"] = "Vous avez déjà votre kevlar !",
 	["gettingArmorInProgress"] = "Ravitaillement en cours...",
 	["npcTooFar"] = "Vous êtes trop loin du NPC !",
-	["armorGivenNotification"] = "Votre kevlar à bien été mis à "
+	["armorGivenNotification"] = "Votre kevlar à bien été mis à %s"
 })

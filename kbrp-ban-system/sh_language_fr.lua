@@ -15,7 +15,7 @@ DarkRP.RegisterSentences("kbrp_ban_system", "fr", {
 	["secondPlural"] = "secondes",
 	["tempBanInstruction"] = "Vous êtes banni temporairement",
 	["bannedInstruction"] = "Vous êtes banni",
-	["instructionDescription"] = "Nous sommes triste de vous voir dans nos cachots !",
+	["instructionDescription"] = "Nous sommes tristes de vous voir dans nos cachots !",
 	["instructionDescription2"] = "Motif : %s",
 	["instructionDescription22"] = "Temps d'attente : %s",
 	["permanent"] = "PERMANENT",

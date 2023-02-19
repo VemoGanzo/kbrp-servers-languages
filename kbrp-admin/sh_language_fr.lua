@@ -35,7 +35,7 @@ DarkRP.RegisterSentences("kbrp_admin", "fr", {
 	["mutedInteractionTitle"] = "Vous êtes Muet",
 	["mutedInteractionDescription"] = "Attendez que l'administrateur vous donnes la parole !",
 	["adminModeInteractionTitle"] = "Vous êtes en Admin",
-	["adminModeInteractionDescription"] = "Attention n'oubliez pas rester discret",
+	["adminModeInteractionDescription"] = "Attention n'oubliez pas de rester discret",
 	["playerHealthInformation"] = "Vie : %s",
 	["playerArmorInformation"] = "Armure : %s",
 	["playerMoneyInformation"] = "Argent : %s",

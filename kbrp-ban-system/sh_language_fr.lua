@@ -17,7 +17,7 @@ DarkRP.RegisterSentences("kbrp_ban_system", "fr", {
 	["bannedInstruction"] = "Vous êtes banni",
 	["instructionDescription"] = "Nous sommes triste de vous voir dans nos cachots !",
 	["instructionDescription2"] = "Motif : %s",
-	["instructionDescription22"] = "Temps d'attente : ",
+	["instructionDescription22"] = "Temps d'attente : %s",
 	["permanent"] = "PERMANENT",
 	["waitingUnban"] = "En attente de débanissement",
 	["cantChangeJob"] = "Vous êtes banni du serveur, vous ne pouvez donc pas changer de métier !",

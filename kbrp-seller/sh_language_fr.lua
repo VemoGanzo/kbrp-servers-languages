@@ -21,3 +21,4 @@ DarkRP.RegisterSentences("kbrp_seller", "fr", {
 	["npcTooFar"] = "Vous devez être plus proche du NPC !",
 	["itemBought"] = "Vous venez de payer un(e) %s pour %s"
 })
+-- Just a little test

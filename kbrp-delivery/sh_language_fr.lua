@@ -15,7 +15,7 @@ DarkRP.RegisterSentences("kbrp_delivery", "fr", {
 	["receiverNPCFemale2"] = "Marieme",
 	["receiverNPCFemale3"] = "Yanicette",
 	["receiverNPCFemale4"] = "Huguette",
-	["receiverNPCNMale1"] = "Boris",
+	["receiverNPCMale1"] = "Boris",
 	["receiverNPCMale2"] = "Jhon",
 	["receiverNPCMale3"] = "Sébastien",
 	["chairEnt"] = "Chaise",

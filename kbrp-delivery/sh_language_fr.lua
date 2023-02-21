@@ -6,7 +6,6 @@ DarkRP.RegisterSentences("kbrp_delivery", "fr", {
 	["nothingToSell"] = "Vous n'avez rien pour moi !",
 	["entitiesSold"] = "Merci pour mes colis, voici pour vous les %s !",
 	["retrieveEntities"] = "Récupérer mes colis",
-	["npcMisconfigured"] = "Le NPC est mal configuré, veuillez contacter un administrateur !",
 	["notHaveCurrentMission"] = "Vous n'avez pas de mission en cours !",
 	["entitiesAlreadyGived"] = "Je vous ai déjà donner les colis !",
 	["noAvailableEntities"] = "Je n'ai pas de colis pour vous ! Vous avez dû vous tromper de personne",

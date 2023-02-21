@@ -7,7 +7,7 @@ DarkRP.RegisterSentences("kbrp_inventory", "fr", {
 	["reachItemLimit"] = "Vous ne pouvez pas avoir plus de %s %s dans votre inventaire !",
 	["sameItems"] = "entités identiques",
 	["equipItemText"] = "Vous équipez votre arme...",
-	["itemEquoped"] = "Vous venez d'équiper votre arme",
+	["itemEquipped"] = "Vous venez d'équiper votre arme",
 	["cantDropStoreWeapons"] = "Vous ne pouvez pas jeter des armes achetés sur la boutique !",
 	["dropWeaponCooldown"] = "Vous devez attendre %s secondes pour jeter votre arme car vous êtes en action...",
 	["reachWeaponsLimit"] = "Vous ne pouvez pas avoir plus de %s armes dans votre inventaire !",

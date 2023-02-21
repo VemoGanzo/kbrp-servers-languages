@@ -50,7 +50,6 @@ DarkRP.RegisterSentences("kbrp_delivery", "fr", {
 	["missionRefused"] = "Vous venez de refuser une mission !",
 	["needToBeInServiceToTakeMission"] = "Vous devez être en service pour prendre une mission !",
 	["oneMissionAlreadyTaken"] = "Vous avez déjà pris une mission !",
-	["missionNotOwned"] = "Vous ne possédez pas cette mission !",
 	["missionAlreadyTaken"] = "Vous avez déjà pris cette mission !",
 	["needToBeInServiceToCancelMission"] = "Vous devez être en service pour annuler une mission !",
 	["cantCancelMissionNoTaken"] = "Vous ne pouvez pas annuler une mission que vous n'avez pas prise !",

@@ -34,7 +34,7 @@ DarkRP.RegisterSentences("kbrp_car_dealer", "de", {
 ["npcTooFar"] = "Du musst näher am NPC sein!",
 ["npcMisconfigured"] = "Der NPC wurde falsch konfiguriert, bitte wenden dich an einen Admin!",
 ["invalidRank"] = "Du hast den falschen Rang!",
-["invalidJob"] = "Du hast den falschen Job!",
+["invalidJob"] = "Du hast den falschen Beruf!",
 ["invalidDealer"] = "Der Fahrzeughändler ist ungültig!",
 ["invalidVehicleClass"] = "Fahrzeugklasse nicht gefunden!",
 ["vehicleNotInDealer"] = "Der Fahrzeughändler besitzt das Fahrzeug nicht!",

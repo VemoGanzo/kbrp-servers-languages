@@ -11,13 +11,13 @@ DarkRP.RegisterSentences("kbrp_seller", "de", {
 	["bag"] = "Tasche",
 	["lightKevlar"] = "Leichte Kevlar",
 	["mediumKevlar"] = "Schwere Kevlar",
-	["npcTitle"] = "Diverse Verkäufer",
+	["npcTitle"] = "Verkäufer",
 	["alreadyGundealer"] = "Es gibt bereits einen Waffenhändler in der Stadt!",
-	["entityPrice"] = "Preis : %s",
+	["entityPrice"] = "Preis: %s",
 	["buyButton"] = "Kaufen",
 	["cantAfford"] = "Du hast nicht genug Geld um das zu kaufen!",
 	["errorOccured"] = "Es ist ein Fehler aufgetreten, bitte kontaktiere einen Administrator!",
 	["invalidItem"] = "Dieser Gegenstand wird nicht von einem Spieler verkauft, versuche keine Exploits!",
 	["npcTooFar"] = "Du bist zu weit vom NPC entfernt!",
-	["itemBought"] = "Du hast gerade ein %s für %s bezahlt"
+	["itemBought"] = "Du hast gerade ein %s für %s gekauft!"
 })

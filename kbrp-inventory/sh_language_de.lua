@@ -14,4 +14,6 @@ DarkRP.RegisterSentences("kbrp_inventory", "de", {
 	["cantAddPizzaDough"] = "Du darfst keinen Pizzateig in dein Inventar aufnehmen!",
 	["inventoryItemAddedLog"] = "%s hat gerade: %s in sein Inventar gelegt.",
 	["inventoryItemRemovedLog"] = "%s hat gerade: %s aus seinem Inventar entfernt!"
+	["tooMuchFoodBag"] = "Du darfst keinen Essensbeutel in deinem Inventar haben!",
+	["foodBag"] = "Essensbeutel"
 })

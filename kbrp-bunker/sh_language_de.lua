@@ -106,7 +106,7 @@ DarkRP.RegisterSentences("kbrp_bunker", "de", {
 	["nothingToSell"] = "Du hast nichts zu verkaufen!",
 	["launchedProductionDelivery"] = "Du hast gerade mit der Auslieferung deiner Produktion begonnen! Halte nicht an und beeile dich!",
 	["notAvailablePlace"] = "Es gibt derzeit keine freien Plätze!",
-	["sellProductionNotification"] = "Du hast gerade deine Ware für ",
+	["sellProductionNotification"] = "Du hast deine Produktion verkauft!",
 	["rawMaterialLoaded"] = "Du hast gerade deine Rohstoffe in deinen LKW geladen.",
 	["rawMaterialDelivered"] = "Du hast gerade deine Rohstoffe abgeliefert.",
 	["putVehicleinBunker"] = "Du hast gerade deinen LKW eingeparkt.",

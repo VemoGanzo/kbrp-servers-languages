@@ -1,5 +1,5 @@
 DarkRP.RegisterSentences("kbrp_hunter", "de", {
-    ["killAnimal"] = "Du hast ein %s getötet!",
+    ["killAnimal"] = "Töte: %sdw!",
 	["goat"] = "Ziege",
 	["monkey"] = "Affe",
 	["deer"] = "Reh",
@@ -18,7 +18,7 @@ DarkRP.RegisterSentences("kbrp_hunter", "de", {
 	["invalidJob"] = "Du hast nicht den richtigen Beruf.",
 	["notGoodAnimalLostMoney"] = "Du hast das falsche Tier getötet und verlierst deshalb %s!",
 	["needButcherAnimalBeforeSell"] = "Du musst das Tier vor dem Verkauf zuerst häuten!",
-	["animalSold"] = "Du hast das Fleisch für %s verkauft.",
+	["animalSold"] = "Du hast das Fleisch für %s verkauft!",
 	["needToBeInServiceToDeleteMission"] = "Du musst im Dienst sein um einen Auftrag abzubrechen!",
 	["invalidMission"] = "Du hast diesen Auftrag nicht!",
 	["missionAlreadyClaimed"] = "Du kannst diesen Auftrag nicht abbrechen weil du ihn bereits angenommen hast!",

@@ -109,7 +109,7 @@ DarkRP.RegisterSentences("kbrp_bunker", "de", {
 	["sellProductionNotification"] = "Du hast deine Produktion verkauft!",
 	["rawMaterialLoaded"] = "Du hast gerade deine Rohstoffe in deinen LKW geladen.",
 	["rawMaterialDelivered"] = "Du hast gerade deine Rohstoffe abgeliefert.",
-	["putVehicleinBunker"] = "Du hast gerade deinen LKW eingeparkt.",
+	["putVehicleinBunker"] = "Du hast deinen LKW eingeparkt!",
 	["cantSpawnEntityInBunker"] = "Du kannst keine Entitys im Bunker spawnen.",
 	["cantDoActionInBunker"] = "Das kannst du im Bunker nicht tun.",
 	["inDeliveryCantEnterInBunker"] = "Du kannst deinen Bunker nicht betreten wenn du eine Lieferung machst.",

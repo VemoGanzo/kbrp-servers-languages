@@ -112,7 +112,7 @@ DarkRP.RegisterSentences("kbrp_bunker", "de", {
 	["putVehicleinBunker"] = "Du hast deinen LKW eingeparkt!",
 	["cantSpawnEntityInBunker"] = "Du kannst keine Entitys im Bunker spawnen.",
 	["cantDoActionInBunker"] = "Das kannst du im Bunker nicht tun.",
-	["inDeliveryCantEnterInBunker"] = "Du kannst deinen Bunker nicht betreten wenn du eine Lieferung machst.",
+	["inDeliveryCantEnterInBunker"] = "Während einer Lieferung darfst deinen Bunker nicht betreten!",
 	["cantEnterInDeliveryVehicle"] = "Du kannst nicht in ein Lieferfahrzeug einsteigen.",
 	["cantChangeJobInBunker"] = "Du musst den Bunker verlassen um den Beruf zu wechseln!",
 	["cantDropMoneyInBunker"] = "Du kannst kein Geld im Bunker fallenlassen!",

@@ -1,4 +1,4 @@
-DarkRP.RegisterSentences("kbgm_language", "fr", {
+DarkRP.RegisterSentences("kbrp_gm", "fr", {
     ["alreadyConnected"] = "Vous êtes déjà connecté au serveur !",
     ["advertSended"] = "Votre annonce a bien été envoyée !",
     ["anonymSended"] = "Votre message anonyme a bien été envoyé !",
@@ -230,4 +230,5 @@ DarkRP.RegisterSentences("kbgm_language", "fr", {
     ["secondaryAssault"] = "Armes d'assault secondaires",
     ["primaryAssault"] = "Armes d'assault",
     ["pistol"] = "Pistolets",
+    ["otherCategory"] = "Autres",
 })

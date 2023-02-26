@@ -1,4 +1,4 @@
-DarkRP.RegisterSentences("kbgm_language", "de", {
+DarkRP.RegisterSentences("kbrp_gm", "de", {
     ["alreadyConnected"] = "Du bist bereits mit dem Server verbunden!",
     ["advertSended"] = "Deine Werbung wurde erfolgreich veröffentlicht!",
     ["anonymSended"] = "Deine anonyme Werbung wurde erfolgreich veröffentlicht!",

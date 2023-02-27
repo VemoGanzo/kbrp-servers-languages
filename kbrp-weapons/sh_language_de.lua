@@ -68,7 +68,7 @@ DarkRP.RegisterSentences("kbrp_weapons", "de", {
 ["rpkCannon"] = "Cannon RPK",
 ["allowBipiedUsage"] = "Ermöglicht die Nutzung eines Zweibeiners",
 ["shortCannon"] = "Verkürzter Lauf",
-["short"] = "Court",
+["short"] = "Kurzer Lauf",
 ["quadCharger"] = "Quad-Magazin",
 ["quadChargerShort"] = "Quad-Magazin",
 ["increaseChargerLength60"] = "Erhöht das Magazin auf 60 Schuss.",

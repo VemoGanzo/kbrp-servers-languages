@@ -4,7 +4,7 @@ DarkRP.RegisterSentences("kbrp_gm", "de", {
     ["anonymSended"] = "Deine anonyme Werbung wurde erfolgreich veröffentlicht!",
     ["numberAlert"] = "Die Zahl muss zwischen 2 und 100.000 liegen!",
     ["randomNumber"] = "%s hat eine Zufallszahl zwischen 1 und %s : %s ausgewählt.",
-    ["serverName"] = "Kobralost Roleplay Germany",
+    ["serverName"] = "Kobralost Roleplay",
     ["propsCount"] = "Props : %s/%s",
     ["playTime"] = "Spielzeit : %s",
     ["crashTitle"] = "Es ist ein Fehler aufgetreten! :(",

@@ -164,7 +164,6 @@ DarkRP.RegisterSentences("kbrp_gm", "fr", {
     ["shortFoldingSlight"] = "V. Pliant",
     ["lngcnn"] = "LNGCN",
     ["mr36ShortLongCannon"] = "MR96 - LongC",
-    ["shortLongCannonRIS"] = "LONGC RIS",
     ["shortHandguardMagpul"] = "Magpul",
     ["basicCannon"] = "Cannon Basique",
     ["noCross"] = "Aucune Cross",

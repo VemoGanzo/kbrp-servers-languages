@@ -115,7 +115,7 @@ DarkRP.RegisterSentences("kbrp_gm", "de", {
     ["callAdmin"] = "Ticket erstellen",
     ["adminMode"] = "Adminmode",
     ["playerMode"] = "Adminmode",
-    ["adminLocker"] = "Adminmenü",
+    ["adminLocker"] = "Warnmenü",
     ["jobLocker"] = "Jobmenü",
     ["cartoonMode"] = "Theme ändern",
     ["normalTheme"] = "Theme ändern",

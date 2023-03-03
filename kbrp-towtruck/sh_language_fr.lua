@@ -1,5 +1,5 @@
-return "fr", {
-    ["defaultNPCName"] = "Robert Wiggins",
+DarkRP.RegisterSentences("kbrp_towtruck", "fr", {
+    	["defaultNPCName"] = "Robert Wiggins",
 	["getVehicleButton"] = "Récupérer ma dépanneuse",
 	["returnVehicleButton"] = "Ranger ma dépanneuse",
 	["toStartInstructionTitle"] = "Pour commencer",
@@ -32,4 +32,4 @@ return "fr", {
 	["vehicleTooFar"] = "Vous êtes trop loin du véhicule",
 	["vehicleRepaired"] = "Le vehicule est réparé",
 	["vehicleRepairStart"] = "Vous commencez à réparer le vehicule"
-}
+})

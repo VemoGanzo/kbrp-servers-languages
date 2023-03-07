@@ -39,5 +39,6 @@ DarkRP.RegisterSentences("kbrp_tresors", "fr", {
 	["chestHUDDescription"] = "Pour vendre un coffre faite clic gauche sur le comptoir",
 	["metalDetectorHUDDigAction"] = "Creuser",
 	["metalDetectorHUDSearchAction"] = "Rechercher",
-	["findObjectNotification"] = "Vous venez de trouver un objet"
+	["findObjectNotification"] = "Vous venez de trouver un objet",
+	["notOnIsland"] = "Allez sur l'ile",
 })

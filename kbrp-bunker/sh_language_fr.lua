@@ -62,6 +62,7 @@ DarkRP.RegisterSentences("kbrp_bunker", "fr", {
 	["cocaineBunkergasdryingRack1"] = "Séchoir #1",
 	["cocaineBunkergasdryingRack2"] = "Séchoir #2",
 	["cocaineBunker"] = "Cocaine Bunker",
+	["cocaineBunkerDescription"] = "Incroyable et luxueux bunker\n situé maison blanche",
 	["skipCinematic"] = "[%s] pour passer la cinématique",
 	["welcomeInYourBunker"] = "BIENVENUE DANS VOTRE BUNKER",
 	["welcomeInYourBunkerDescription"] = "VOS EMPLOYES ONT HATE DE VOUS REVOIR",

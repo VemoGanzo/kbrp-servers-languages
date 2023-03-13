@@ -8,6 +8,8 @@ DarkRP.RegisterSentences("kbrp_seller", "fr", {
 	["keypadCracker"] = "Keypad Cracker",
 	["jewelleryPhone"] = "Telephone",
 	["jewelleryHammer"] = "Marteau",
+	["radio"] = "Radio",
+	["serflex"] = "Serflex",
 	["bag"] = "Sac",
 	["lightKevlar"] = "Kevlar léger",
 	["mediumKevlar"] = "Kevlar lourd",

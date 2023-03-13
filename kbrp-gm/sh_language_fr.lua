@@ -230,4 +230,6 @@ DarkRP.RegisterSentences("kbrp_gm", "fr", {
     ["primaryAssault"] = "Armes d'assault",
     ["pistol"] = "Pistolets",
     ["otherCategory"] = "Autres",
+    ["radio"] = "Radio",
+    ["ties"] = "Serflex"
 })

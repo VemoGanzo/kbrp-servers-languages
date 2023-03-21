@@ -135,8 +135,8 @@ DarkRP.RegisterSentences("kbrp_sweps", "fr", {
 	["invalidFrequency"] = "Cette fréquence n'existe pas",
 	["cantAccessToFrequency"] = "Vous n'avez pas accès à cette fréquence",
 	["jailScreenTitle"] = "ADMINISTRATION PENITENTIAIRE",
-	["noPlayerToJailNear"] = "Il n'y a personne d'arrêter ou autour de vous",
-	["jailPlayerDescription"] = "Arrêter pour: %s",
+	["noPlayerToJailNear"] = "Il n'y a personne d'arrêté ou autour de vous",
+	["jailPlayerDescription"] = "Arrêté pour: %s",
 	["freelyDescription"] = "En liberté",
 	["timeLeftDescription"] = "Temps restant: %s",
 	["cantJailUnownedDoor"] = "Vous ne pouvez pas utiliser votre bélier sur cette porte",
@@ -198,5 +198,5 @@ DarkRP.RegisterSentences("kbrp_sweps", "fr", {
 	["radioInvalidMessageLength"] = "Votre message doit contenir entre %s et %s caractères",
 	["radioMessagePattern"] = "[Radio %s] %s - %s",
 	["misparkedVehicle"] = "Véhicule mal garé",
-	["targetJailed"] = "Vous venez d'être mis en prison pendant %s avec une amende de %s",
+	["targetJailed"] = "Vous venez d'être mis en prison pendant %s avec une amende de %s"
 })

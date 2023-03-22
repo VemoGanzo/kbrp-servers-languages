@@ -198,5 +198,13 @@ DarkRP.RegisterSentences("kbrp_sweps", "fr", {
 	["radioInvalidMessageLength"] = "Votre message doit contenir entre %s et %s caractères",
 	["radioMessagePattern"] = "[Radio %s] %s - %s",
 	["misparkedVehicle"] = "Véhicule mal garé",
-	["targetJailed"] = "Vous venez d'être mis en prison pendant %s avec une amende de %s"
+	["targetJailed"] = "Vous venez d'être mis en prison pendant %s avec une amende de %s",
+	["tazerLogsCategory"] = "Tazer",
+	["tazzedLog"] = "%s vient de taser %s",
+	["tiesLogsCategory"] = "Serflex",
+	["cuffLogsCategory"] = "Menottes",
+	["jailLogsCategory"] = "Prison",
+	["finesLogsCategory"] = "Amendes",
+	["stoleLogsCategory"] = "Vols",
+	["batteringRamLogsCategory"] = "Bélier"
 })

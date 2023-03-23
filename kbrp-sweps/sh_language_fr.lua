@@ -200,7 +200,7 @@ DarkRP.RegisterSentences("kbrp_sweps", "fr", {
 	["misparkedVehicle"] = "Véhicule mal garé",
 	["targetJailed"] = "Vous venez d'être mis en prison pendant %s avec une amende de %s",
 	["tazerLogsCategory"] = "Tazer",
-	["tazzedLog"] = "%s vient de taser %s",
+	["tazzedLog"] = "%s vient de se faire taser par %s",
 	["tiesLogsCategory"] = "Serflex",
 	["cuffLogsCategory"] = "Menottes",
 	["jailLogsCategory"] = "Prison",

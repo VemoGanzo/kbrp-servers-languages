@@ -231,5 +231,8 @@ DarkRP.RegisterSentences("kbrp_gm", "fr", {
     ["pistol"] = "Pistolets",
     ["otherCategory"] = "Autres",
     ["radio"] = "Radio",
-    ["ties"] = "Serflex"
+    ["ties"] = "Serflex",
+    ["whisperVoiceModeNotification"] = "Vous êtes en train de chuchoter",
+    ["normalVoiceModeNotification"] = "Vous êtes en train de parler normalement",
+    ["shoutVoiceModeNotification"] = "Vous êtes en train de crier"
 })

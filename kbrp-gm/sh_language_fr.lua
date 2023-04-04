@@ -234,5 +234,9 @@ DarkRP.RegisterSentences("kbrp_gm", "fr", {
     ["ties"] = "Serflex",
     ["whisperVoiceModeNotification"] = "Vous êtes en train de chuchoter",
     ["normalVoiceModeNotification"] = "Vous êtes en train de parler normalement",
-    ["shoutVoiceModeNotification"] = "Vous êtes en train de crier"
+    ["shoutVoiceModeNotification"] = "Vous êtes en train de crier",
+    ["whisperVoiceModeText"] = "Vous chuchotez",
+    ["normalVoiceModeText"] = "Vous parlez normalement",
+    ["shoutVoiceModeText"] = "Vous criez",
+    ["changeVoiceModeText"] = "Appuyez sur %s pour changer"
 })

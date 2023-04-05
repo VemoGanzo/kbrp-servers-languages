@@ -237,6 +237,6 @@ DarkRP.RegisterSentences("kbrp_gm", "fr", {
     ["shoutVoiceModeNotification"] = "Vous êtes en train de crier",
     ["whisperVoiceModeText"] = "Vous chuchotez",
     ["normalVoiceModeText"] = "Vous parlez normalement",
-    ["shoutVoiceModeText"] = "Vous criez",
+    ["shoutVoiceModeText"] = "Vous parlez fort",
     ["changeVoiceModeText"] = "Appuyez sur %s pour changer"
 })

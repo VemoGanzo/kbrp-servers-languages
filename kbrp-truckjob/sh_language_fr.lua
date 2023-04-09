@@ -15,8 +15,8 @@ DarkRP.RegisterSentences("kbrp_truckjob", "fr", {
 	["actionUnavailable"] = "Cette action est indisponible pour le moment !",
 	["noAvailableSpawnPlaces"] = "Il n'y a aucune place de disponible actuellement !",
 	["takeNoOwnedTrailer"] = "Vous ne pouvez pas prendre la remorque d'un de vos collègues !",
-	["tooFarLoadPoint"] = "Vous n'étiez pas a coté du point pour charger votre cargaison !",
+	["tooFarLoadPoint"] = "Vous n'étiez pas a côté du point pour charger votre cargaison !",
 	["truckLoaded"] = "Vous venez de charger votre camion !",
-	["tooFarSellPoint"] = "Vous n'étiez pas a coté du point pour vendre votre cargaison !",
-	["trailerDelivered"] = "Vous venez de livrez votre remorque vous avez gagné "
+	["tooFarSellPoint"] = "Vous n'étiez pas a côté du point pour vendre votre cargaison !",
+	["trailerDelivered"] = "Vous venez de livrer votre remorque et avez gagné "
 })

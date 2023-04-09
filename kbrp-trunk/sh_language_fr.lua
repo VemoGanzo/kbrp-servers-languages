@@ -12,6 +12,6 @@ DarkRP.RegisterSentences("kbrp_trunk", "fr", {
 	["noEnoughTrunkPlace"] = "Il n'y a pas suffisament de place dans le coffre !",
 	["equipWeapon"] = "Vous équipez votre arme...",
 	["weaponEquiped"] = "Vous venez d'équiper votre arme",
-	["trunkLocked"] = "Ce coffre de véhicule est vérouillé.",
-	["tooMuchFoodBag"] = "Votre véhicule ne peut pas contenir d'avantage de sac de nourriture !"
+	["trunkLocked"] = "Ce coffre de véhicule est verrouillé.",
+	["tooMuchFoodBag"] = "Votre véhicule ne peut pas contenir d'avantage de sacs de nourriture !"
 })

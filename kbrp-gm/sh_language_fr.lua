@@ -37,7 +37,7 @@ DarkRP.RegisterSentences("kbrp_gm", "fr", {
     ["disableBuy"] = "Interdire l'achat",
     ["enableBuy"] = "Autoriser l'achat",
     ["addCoOwner"] = "Ajouter un co-propriétaire",
-    ["deleteCoOwner"] = "Ajouter un co-propriétaire",
+    ["deleteCoOwner"] = "Supprimer un co-propriétaire",
     ["sellProperty"] = "Vendre la propriété",
     ["propertyOnSell3D2D"] = "La propriété est a vendre",
     ["pressKeyToBuy3D2D"] = "(Appuyez sur F2 pour l'acheter)",

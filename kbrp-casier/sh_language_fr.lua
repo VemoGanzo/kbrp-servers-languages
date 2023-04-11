@@ -68,5 +68,7 @@ DarkRP.RegisterSentences("kbrp_casier", "fr", {
 	["steamIdNotFound"] = "Le SteamID que vous recherchez n'éxiste pas !",
 	["points"] = "points",
 	["punishments"] = "sanctions",
+	["automaticBan"] = "Bannissement automatique lié aux points",
+	["automaticBanNotify"] = "Vous venez de recevoir un avertissement qui à entrainé automatiquement votre bannissement.",
 	["dateFormat"] = "%d/%m/%Y"
 })

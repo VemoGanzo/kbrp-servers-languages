@@ -1,5 +1,5 @@
 DarkRP.RegisterSentences("kbrp_health", "fr", {
-    ["npcTitle"] = "Médecin en Chef",
+  ["npcTitle"] = "Médecin en Chef",
 	["alreadyMedic"] = "Il y a un médecin en ville. Laisse moi tranquille je suis en congé",
 	["noNeedToBeCared"] = "Vous n'avez aucun problème de santé ! Ne soyez pas inquiet.",
 	["takeCareText"] = "Soignez-vous pour %s",
@@ -10,4 +10,6 @@ DarkRP.RegisterSentences("kbrp_health", "fr", {
 	["freeHealth"] = "Soins gratuit pour votre métier",
 	["perfectHealth"] = "Vous êtes en parfaite santé",
 	["hopital"] = "Hopital Kobralost",
+	["npcName"] = "Shaun Murphy",
+	["npcDesc"] = "Médecin de garde",
 })

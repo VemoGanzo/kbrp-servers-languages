@@ -84,5 +84,6 @@ DarkRP.RegisterSentences("kbrp_mayor", "fr", {
 	["receiveLightLicense"] = "Vous venez de recevoir une license d'arme légère",
 	["receiveHeavyLicense"] = "Vous venez de recevoir une license d'arme lourde",
 	["lightLicenseRemoved"] = "Vous venez de vous faire retirer une license d'arme légère",
+	["alreadyHaveThisLicense"] = "Vous avez déjà cette license d'arme",
 	["heavyLicenseRemoved"] = "Vous venez de vous faire retirer une license d'arme lourde"
 })

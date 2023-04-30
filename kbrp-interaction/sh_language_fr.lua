@@ -4,7 +4,13 @@ DarkRP.RegisterSentences("kbrp_interaction", "fr", {
 	["openTrunk"] = "Ouvrir le coffre",
 	["pushVehicle"] = "Pousser le véhicule",
 	["catchVehicle"] = "Tirer le véhicule",
-	["butcherVehicle"] = "Dépecer l'animal",
+	["butcher"] = "Dépecer l'animal",
 	["errorOccured"] = "Une erreur s'est produite ! Veuillez contacter un membre du staff dés que possible !",
-	["invalidPermissions"] = "Vous ne pouvez pas faire cela !"
+	["invalidPermissions"] = "Vous ne pouvez pas effectuer cette action",
+	["descAddInventory"] = "Ajouter l'objet dans l'inventaire",
+	["descAddTrunk"] = "Ajouter l'objet dans le coffre",
+	["descPushVehicle"] = "Pousser le véhicule avec vos mains",
+	["descPullVehicle"] = "Tirer le véhicule avec vos mains",
+	["descOpenTrunk"] = "Ouvrir le coffre du véhicule",
+	["descButcher"] = "Dépecer la peau de l'animal",
 })

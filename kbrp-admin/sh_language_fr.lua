@@ -59,5 +59,7 @@ DarkRP.RegisterSentences("kbrp_admin", "fr", {
 	["ticketSentNotification"] = "Votre ticket a bien été envoyé ! Continuez à jouer roleplay un staff arrive très bientôt !",
 	["ratingRegistredNotification"] = "Votre note a bien été prise en compte !",
 	["uncuffPlayerContextMenuAction"] = "Libérer",
+	["playingTime"] = "Temps de jeu : %s",
+	["newPlayer"] = "Nouveau joueur",
 	["ticketBeenDeleted"] = "Votre ticket vient d'être supprimé avec succès !"
 })

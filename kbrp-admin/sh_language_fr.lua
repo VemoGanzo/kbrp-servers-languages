@@ -54,6 +54,8 @@ DarkRP.RegisterSentences("kbrp_admin", "fr", {
 	["cantAddFinePlayerInAdminRoom"] = "Vous ne pouvez pas mettre une amende à quelqu'un qui est en salle admin !",
 	["cantHandcuffInAdminRoom"] = "Vous ne pouvez pas menotter en salle admin !",
 	["cantHandcuffPlayerInAdminRoom"] = "Vous ne pouvez pas menotter quelqu'un qui est en salle admin !",
+	["cantTiesInAdminRoom"] = "Vous ne pouvez pas attacher en salle admin !",
+	["cantTiesPlayerInAdminRoom"] = "Vous ne pouvez pas attacher quelqu'un qui est en salle admin !",
 	["closeTicketReward"] = "Vous venez de recevoir %s pour avoir fermé un ticket !",
 	["cantCreateTicketInAdminRoom"] = "Vous ne pouvez pas créer de tickets en mode admin !",
 	["ticketSentNotification"] = "Votre ticket a bien été envoyé ! Continuez à jouer roleplay un staff arrive très bientôt !",
@@ -61,5 +63,7 @@ DarkRP.RegisterSentences("kbrp_admin", "fr", {
 	["uncuffPlayerContextMenuAction"] = "Libérer",
 	["playingTime"] = "Temps de jeu : %s",
 	["newPlayer"] = "Nouveau joueur",
-	["ticketBeenDeleted"] = "Votre ticket vient d'être supprimé avec succès !"
+	["ticketBeenDeleted"] = "Votre ticket vient d'être supprimé avec succès !",
+	["cantDoActionInAdminRoom"] = "Vous ne pouvez pas faire cette action en salle admin !",
+	["cantDoActionInAdminMode"] = "Vous ne pouvez pas faire cette action en mode admin !"
 })

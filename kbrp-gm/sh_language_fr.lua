@@ -238,5 +238,6 @@ DarkRP.RegisterSentences("kbrp_gm", "fr", {
     ["whisperVoiceModeText"] = "Vous chuchotez",
     ["normalVoiceModeText"] = "Vous parlez normalement",
     ["shoutVoiceModeText"] = "Vous parlez fort",
-    ["changeVoiceModeText"] = "Appuyez sur %s pour changer"
+    ["changeVoiceModeText"] = "Appuyez sur %s pour changer",
+    ["cantChangeJobIfDead"] = "Vous ne pouvez pas changer de métier quand vous êtes mort !"
 })

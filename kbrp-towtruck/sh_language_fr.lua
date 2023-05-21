@@ -1,5 +1,5 @@
 DarkRP.RegisterSentences("kbrp_towtruck", "fr", {
-    	["defaultNPCName"] = "Robert Wiggins",
+    ["defaultNPCName"] = "Robert Wiggins",
 	["getVehicleButton"] = "Récupérer ma dépanneuse",
 	["returnVehicleButton"] = "Ranger ma dépanneuse",
 	["toStartInstructionTitle"] = "Pour commencer",

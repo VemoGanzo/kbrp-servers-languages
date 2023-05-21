@@ -1,5 +1,5 @@
 DarkRP.RegisterSentences("kbrp_towtruck", "fr", {
-    	["defaultNPCName"] = "Robert Wiggins",
+    ["defaultNPCName"] = "Robert Wiggins",
 	["getVehicleButton"] = "Récupérer ma dépanneuse",
 	["returnVehicleButton"] = "Ranger ma dépanneuse",
 	["toStartInstructionTitle"] = "Pour commencer",
@@ -31,5 +31,7 @@ DarkRP.RegisterSentences("kbrp_towtruck", "fr", {
 	["vehicleDestroyedCantRepair"] = "Le vehicule est detruit, vous devez le remorquer",
 	["vehicleTooFar"] = "Vous êtes trop loin du véhicule",
 	["vehicleRepaired"] = "Le vehicule est réparé",
-	["vehicleRepairStart"] = "Vous commencez à réparer le vehicule"
+	["vehicleRepairStart"] = "Vous commencez à réparer le vehicule",
+	["cardealerAction"] = "Frais de fourrière",
+	["vehicleInCarDealer"] = "Votre véhicule est désormais dans votre garage"
 })

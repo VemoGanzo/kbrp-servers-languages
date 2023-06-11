@@ -65,5 +65,6 @@ DarkRP.RegisterSentences("kbrp_admin", "fr", {
 	["newPlayer"] = "Nouveau joueur",
 	["ticketBeenDeleted"] = "Votre ticket vient d'être supprimé avec succès !",
 	["cantDoActionInAdminRoom"] = "Vous ne pouvez pas faire cette action en salle admin !",
-	["cantDoActionInAdminMode"] = "Vous ne pouvez pas faire cette action en mode admin !"
+	["cantDoActionInAdminMode"] = "Vous ne pouvez pas faire cette action en mode admin !",
+	["onSwitchAdminModeMessage"] = "Je prends mon service",
 })

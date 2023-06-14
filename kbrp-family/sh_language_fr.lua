@@ -85,8 +85,8 @@ DarkRP.RegisterSentences("kbrp_family", "fr", {
 	["needSelectPlayermodels"] = "Vous devez choisir un ou plusieurs models",
 	["invalidPlayermodels"] = "Un des models n'existent pas",
 	["tooManyPlayermodels"] = "Il y a trop de models !",
-	["needSelectVehicle"] = "Vous devez choisir un véhicule de PDG !",
+	["needSelectVehicle"] = "Vous devez choisir un véhicule de Chef de Famille !",
 	["needSelectFamilyColor"] = "Vous devez choisir la couleur de votre famille",
-	["needSelectWeapon"] = "Vous devez choisir l'arme du PDG !",
-	["vehiclesListTitle"] = "Véhicules PDG famille"
+	["needSelectWeapon"] = "Vous devez choisir l'arme du Chef de Famille !",
+	["vehiclesListTitle"] = "Véhicules Chef de Famille"
 })
